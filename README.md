@@ -1,5 +1,3 @@
-# homework_week_3
-
 # Password Generator
 
 The objective of this homework is to generate a random password based on user selected criterias.
